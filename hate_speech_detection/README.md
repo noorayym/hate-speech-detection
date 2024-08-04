@@ -16,6 +16,7 @@ The Hate Speech Classifier project provides a Streamlit web application for clas
   - **`requirements.txt`**: List of Python dependencies.
 
 - **`Hate.ipynb`**: Jupyter Notebook for training and building the model.
+(Link: https://colab.research.google.com/drive/1yww1VsnNWAfBkMqgo-zV68K9ysyCY7aX?usp=sharing)
 - **`labeled_data.csv`**: CSV file containing labeled data for training.
 - **`LICENSE`**: License file for the project.
 
