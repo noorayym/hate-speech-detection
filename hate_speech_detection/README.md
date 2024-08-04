@@ -62,15 +62,6 @@ The model is trained using the Jupyter Notebook `Hate.ipynb`. This notebook incl
 - Model training
 - Evaluation
 
-## Configuration
-
-- **`config.toml`**: Contains Streamlit server configuration. You can adjust settings like port number and CORS settings here.
-- **`credentials.toml`**: Stores credentials information. Update with your credentials if needed.
-
 ## License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or issues, please contact [your-email@example.com].
