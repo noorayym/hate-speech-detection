@@ -25,8 +25,8 @@ The Hate Speech Classifier project provides a Streamlit web application for clas
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/noorayym/hate-speech-detection
+    cd hate-speech-detection
     ```
 
 2. **Create and activate a virtual environment:**
